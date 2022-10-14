@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e887ed44-0a92-49de-b725-d5651c2f10a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/nostyle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/style1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/style1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/style2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/style2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3.iml" afterDir="false" />
+    <list default="true" id="e887ed44-0a92-49de-b725-d5651c2f10a8" name="Changes" comment="intial commit - project1_1">
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/intro.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +62,16 @@
       <workItem from="1665106866770" duration="1142000" />
       <workItem from="1665108064687" duration="707000" />
       <workItem from="1665474168036" duration="5174000" />
-      <workItem from="1665708182990" duration="1790000" />
+      <workItem from="1665708182990" duration="3908000" />
     </task>
+    <task id="LOCAL-00001" summary="intial commit - project1_1">
+      <created>1665710756067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665710756067</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intial commit - project1_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="intial commit - project1_1" />
   </component>
 </project>

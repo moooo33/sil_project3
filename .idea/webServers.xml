@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="a5184b41-c02a-4d1c-8808-46af69e672b5" name="dothome" url="http://moooo33.dothome.co.kr">
-        <fileTransfer host="moooo33.dothome.co.kr" port="21">
+        <fileTransfer rootFolder="/html/home" host="moooo33.dothome.co.kr" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
